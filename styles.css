@@ -1,0 +1,32 @@
+body {
+  background-color: #00aaff;
+}
+.Body {
+  text-align: center;
+}
+.image {
+  border: 1px solid burlywood;
+}
+#btn {
+  border-style: none;
+  background-color: rgb(57, 176, 136);
+  width: 6rem;
+  height: 2rem;
+}
+#btn:hover {
+  background-color: aqua;
+  transition: background-color 0.8;
+}
+#btn:active {
+  opacity: 0.1;
+  transition: opacity 0.5;
+}
+#result {
+  margin-left: 34.5rem;
+  margin-top: 2rem;
+  color: rgb(10, 36, 202);
+}
+.para {
+  width: 15rem;
+  margin-left: 30.5rem;
+}
